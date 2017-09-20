@@ -1,7 +1,7 @@
 Instant Screen-off
 ==================
 
-Instant Screen-off is a dead-simple module for the Xposed framework that disbales the screen-off animation. For more information, refer to this post: [Disabling Android's Screen-off Animation](http://exp.hazemam.com/post/screen-off).
+Instant Screen-off is a dead-simple module for the Xposed framework that disables the screen-off animation. For backstory and more information, refer to this post: [Disabling Android's Screen-off Animation](http://exp.hazemam.com/en/post/screen-off).
 
 The module should work well on AOSP-like ROMs, with Lollipop or later.
 
